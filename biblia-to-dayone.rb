@@ -2,7 +2,7 @@ require "csv"
 require "optparse"
 require "time"
 
-EXPORT_FILE_PREFIX = "dayone-plain-text-"
+EXPORT_FILE_PREFIX = "files/dayone-plain-text-"
 EXPORT_ENTRY_SIGNATURE = "\n====\nImport from Biblia app.\n"
 
 def options
